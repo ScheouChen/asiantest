@@ -3,19 +3,28 @@
 
 body 
 {
-    margin         : 0px auto;
+    margin         : 0 auto;
     padding        : 0px;
     width          : 800px;
     font           : 76% "trebuchet ms", arial, helvetica, sans-serif;
     background     : #f4f4f4 url(../pic/bg.png) top center repeat-y; /* Light Gray */
+heigth : auto;
 }
+
+html{
+height:100%;
+}
+
+
+
 
 #wrap 
 {
     background     : #ffffff;  /* White */
     color          : #303030;  /* Dark Gray */
-    margin         : 0px auto;
+    margin         : 0 auto;
     width          : 760px;
+    heigth : auto;
 }
 
 #navmenu h2 
