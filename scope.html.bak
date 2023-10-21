@@ -2,24 +2,14 @@
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head>
- <meta http-equiv="content-type" content="text/html; charset=utf-8" />
- <title>ASIAN-24</title>
-
-        <link rel="stylesheet" type="text/css" href="style/layout-pc.css" media="screen and (min-device-width: 900px)" title="GRUB css" />
-        <link rel="stylesheet" type="text/css" href="style/layout-mobile.css" media="screen and (max-device-width: 900px)" title="GRUB css" />
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="style/layout.css" media="screen" title="GRUB css" />
         <link rel="stylesheet" type="text/css" href="style/print.css" media="print" />
-
+        <title>Ultrafast Surface Dynamics 11</title>
     </head>
-    <body>
-		<script src="lightbox/js/lightbox-plus-jquery.min.js"></script>
-		<script>
-			lightbox.option({
-                'alwaysShowNavOnTouchDevices' : true,
-                'resizeDuration': 200,
-                'wrapAround': true
-			})
-		</script>
 
+    <body>
+        <a name="top"></a>
         <div id="wrap">
         <div id="navmenu" class="wrap">
             <div style="height: 6pt"> </div>
@@ -34,14 +24,13 @@
 
             <ul>
               <li><a href="index.html">Home</a></li>
-              <li><a href="Abstract Submission.html">Abstract Submission</a></li>
-              <li><a href="committee.html">Committee</a></li>
+              <li><a href="scope.html">Scope</a></li>
               <li><a href="invited_speaker.html">Invited Speakers</a></li>
               <li><a href="registration.html">Registration</a></li>
               <li><a href="program.html">Program</a></li>
               <li><a href="conference_site.html">Conference Site</a></li>
-              <li><a href="Accommodation.html">Accommodation</a></li>
               <li><a href="contact.html">Contact</a></li>
+              <li><a href="photos.html">Photos</a></li>
               <!-- <li><a href="training.html">Training Session</a></li> -->
               <!-- <li><a href="photo.html">Photos</a></li> -->
             </ul>
@@ -51,7 +40,7 @@
 
             <div style='text-align: right'>
 		        <a style="color: #000", target='_blank', href="http://www.cps.fudan.edu.cn/En">
-                    Institute of Computational Physical Sciences, Fudan University (复旦大学计算物质科学研究所)
+                    Institue of Computational Physical Sciences, Fudan University (复旦大学计算物质科学研究所)
                 </a>
             </div>
 
@@ -79,12 +68,13 @@
 
         </div>
 
-        <div id="content">
+
+         <div id="content">
             <!-- end header -->
             <div style='min-height: 6px;'> </div>
             <div style='width: 100%; text-align: right'>
                 <h1 style='color:#000;  font-family: Sans-serif; font-size:1.8em; line-height: 1.2em'>
-                    The 24th Asian Workshop on First-Principles Electronic Structure Calculations, ASIAN-24
+                    The 24nd Asian Workshop on First-Principles Electronic Structure Calculations, ASIAN-24
                 </h1>
                 <div style='min-height: 3px;'> </div>
                 <span style="color:#000;">Oct. 30, 2023- Nov. 1, 2023</span>
@@ -100,50 +90,37 @@
 
             <br />
 
-
             <div>
-
-
-
-
-                <div style='height: 6px'> </div>
-				<h2>Accommodation</h2>
-	<p>The accommodation of all invited speakers will be provided at <b>Shanghai Wujiaochang 
-		Boling hotel, 1258 Yinhang Road （上海五角场博邻酒店，殷行路1258号）</b>, which is about <b>1.7 kilometers </b>away from the Physics Hall. The hotels around the Jiangwan campus, including the Shanghai Wujiaochang Boling hotel, can be booked on the websites such as  <a  target='_blank', href="https://www.ctrip.com">
-                      <b>www.ctrip.com</b></a>. For attendants who cannot book the hotels by themselves, please contact Ms. Xiaoli Cui (cpslab@fudan.edu.cn) before the registration deadline: September 30, 2023.</p>
-
-
-              <div align='center'>
-                    <img src="pic/hotel-1.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
+                <div align='center'>
+                    <img src="pic/atom.png" alt="USD11 SCOPE" width="75%" />
+                    <div style='text-align: right; font-weight: bold; font-size: 80%;'>
+                    </div>
                 </div>
+                <h2>Scope</h2>
+                <p style='text-align: justify'>
+                    The Asian Workshop on First-Principles Electronic Structure Calculations is an international symposium, which
+                    started in 1998 in Tsukuba, and has since been held every year
+                    alternating in various locations in Asia. The Workshop
+                    focuses on the First-Principles Electronic Structure Calculations.
+                </p>
 
-              <div align='center'>
-                    <img src="pic/hotel-2.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
-                </div>
+                <div style="height: 6px"> </div>
 
-              <div align='center'>
-                    <img src="pic/hotel-3.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
-                </div>
+                <h2 style='font-size: 1.0em'>Covered Topics</h2>
+				<ul style="list-style: none; padding-left: 1em;">
+                    <li>
+                        Condensed matter physics
+                    </li>
 
-              <div align='center'>
-                    <img src="pic/hotel-4.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
-                </div>
+                    <li>
+                        Materials science
+                    </li>
 
- <ul>
-<li>Shanghai Wujiaochang Boling hotel is 1.7 kilometers away from the Physics Hall.</li>
-              <div align='center'>
-                    <img src="pic/travel2.jpg" alt="travel2" width="60%" />
-                </div>
 
-                <div style='height: 6px'> </div>
+                </ul>
 
-</ul>
-		    
-                <div style="clear: both; width=100%; text-align: right; padding: 10px 20px 300px">
-                    <a href="#top" style="font-size: 80%; color: #FF3322; font-weight: bold;"> &lt; Top &gt; </a>
-                </div>
+            </div>
 
-		    
         </div> <!-- content -->
         </div> <!-- copyright -->
         </div> <!-- wrap -->

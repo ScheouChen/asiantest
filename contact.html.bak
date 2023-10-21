@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-    <head>
+      <head>
  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
  <title>ASIAN-24</title>
 
@@ -11,15 +11,7 @@
 
     </head>
     <body>
-		<script src="lightbox/js/lightbox-plus-jquery.min.js"></script>
-		<script>
-			lightbox.option({
-                'alwaysShowNavOnTouchDevices' : true,
-                'resizeDuration': 200,
-                'wrapAround': true
-			})
-		</script>
-
+        <a name="top"></a>
         <div id="wrap">
         <div id="navmenu" class="wrap">
             <div style="height: 6pt"> </div>
@@ -35,7 +27,7 @@
             <ul>
               <li><a href="index.html">Home</a></li>
               <li><a href="Abstract Submission.html">Abstract Submission</a></li>
-              <li><a href="committee.html">Committee</a></li>
+             <li><a href="committee.html">Committee</a></li>
               <li><a href="invited_speaker.html">Invited Speakers</a></li>
               <li><a href="registration.html">Registration</a></li>
               <li><a href="program.html">Program</a></li>
@@ -51,7 +43,7 @@
 
             <div style='text-align: right'>
 		        <a style="color: #000", target='_blank', href="http://www.cps.fudan.edu.cn/En">
-                    Institute of Computational Physical Sciences, Fudan University (复旦大学计算物质科学研究所)
+                    Institue of Computational Physical Sciences, Fudan University (复旦大学计算物质科学研究所)
                 </a>
             </div>
 
@@ -100,53 +92,44 @@
 
             <br />
 
-
             <div>
-
-
-
-
-                <div style='height: 6px'> </div>
-				<h2>Accommodation</h2>
-	<p>The accommodation of all invited speakers will be provided at <b>Shanghai Wujiaochang 
-		Boling hotel, 1258 Yinhang Road （上海五角场博邻酒店，殷行路1258号）</b>, which is about <b>1.7 kilometers </b>away from the Physics Hall. The hotels around the Jiangwan campus, including the Shanghai Wujiaochang Boling hotel, can be booked on the websites such as  <a  target='_blank', href="https://www.ctrip.com">
-                      <b>www.ctrip.com</b></a>. For attendants who cannot book the hotels by themselves, please contact Ms. Xiaoli Cui (cpslab@fudan.edu.cn) before the registration deadline: September 30, 2023.</p>
-
-
-              <div align='center'>
-                    <img src="pic/hotel-1.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
+<h2>Contact:</h2>
+                <div align='center'>
+                    <table style="width:500px; margin: 0px 0px; padding:0px 6px; border: 0px solid #000000; height: 80px">
+                        <tr>
+                            <td>
+                                Ms. Xiaoli Cui
+                            </td>
+                            <td><a href="mailto:cpslab@fudan.edu.cn">cpslab@fudan.edu.cn</a></td>
+                             <td>(Abstract submission & Registration)</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Prof. Shiyou Chen
+                            </td>
+                            <td><a href="mailto:chensy@fudan.edu.cn">chensy@fudan.edu.cn</a></td>
+                             <td>(Invitation & Program)</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Prof. Hongjun Xiang
+                            </td>
+                            <td><a href="mailto:hxiang@fudan.edu.cn">hxiang@fudan.edu.cn</a></td>                   
+                        </tr>
+                        <tr>
+                            <td>
+                                Prof. Xin-Gao Gong
+                            </td>
+                            <td><a href="mailto:xggong@fudan.edu.cn">xggong@fudan.edu.cn</a></td>
+                        </tr>
+                    </table>
                 </div>
 
-              <div align='center'>
-                    <img src="pic/hotel-2.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
-                </div>
+                <div style='height: 12px'> </div>
 
-              <div align='center'>
-                    <img src="pic/hotel-3.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
-                </div>
-
-              <div align='center'>
-                    <img src="pic/hotel-4.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
-                </div>
-
- <ul>
-<li>Shanghai Wujiaochang Boling hotel is 1.7 kilometers away from the Physics Hall.</li>
-              <div align='center'>
-                    <img src="pic/travel2.jpg" alt="travel2" width="60%" />
-                </div>
-
-                <div style='height: 6px'> </div>
-
-</ul>
-		    
                 <div style="clear: both; width=100%; text-align: right; padding: 10px 20px 300px">
                     <a href="#top" style="font-size: 80%; color: #FF3322; font-weight: bold;"> &lt; Top &gt; </a>
                 </div>
-
-		    
-        </div> <!-- content -->
-        </div> <!-- copyright -->
-        </div> <!-- wrap -->
 
     </body>
 </html>

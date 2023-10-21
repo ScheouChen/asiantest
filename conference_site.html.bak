@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-    <head>
+     <head>
  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
  <title>ASIAN-24</title>
 
@@ -11,15 +11,7 @@
 
     </head>
     <body>
-		<script src="lightbox/js/lightbox-plus-jquery.min.js"></script>
-		<script>
-			lightbox.option({
-                'alwaysShowNavOnTouchDevices' : true,
-                'resizeDuration': 200,
-                'wrapAround': true
-			})
-		</script>
-
+        <a name="top"></a>
         <div id="wrap">
         <div id="navmenu" class="wrap">
             <div style="height: 6pt"> </div>
@@ -35,7 +27,7 @@
             <ul>
               <li><a href="index.html">Home</a></li>
               <li><a href="Abstract Submission.html">Abstract Submission</a></li>
-              <li><a href="committee.html">Committee</a></li>
+             <li><a href="committee.html">Committee</a></li>
               <li><a href="invited_speaker.html">Invited Speakers</a></li>
               <li><a href="registration.html">Registration</a></li>
               <li><a href="program.html">Program</a></li>
@@ -51,7 +43,7 @@
 
             <div style='text-align: right'>
 		        <a style="color: #000", target='_blank', href="http://www.cps.fudan.edu.cn/En">
-                    Institute of Computational Physical Sciences, Fudan University (复旦大学计算物质科学研究所)
+                    Institue of Computational Physical Sciences, Fudan University (复旦大学计算物质科学研究所)
                 </a>
             </div>
 
@@ -98,38 +90,67 @@
             </div>
             <div style='width: 100%; float: right; border-bottom: solid 1.5px; min-height: 6px;'> </div>
 
-            <br />
-
+            <br/>
 
             <div>
+                <h2>Conference site</h2>
+                <p style="text-align: justify">
+                The Workshop will be held in
+                <a style="color: #008C93;" target='_blank',
+                    href='https://www.jwb.fudan.edu.cn/'>
+                    <b>
+                        Physics Hall, Jiangwan Campus, Fudan University (复旦大学江湾校区物理楼) 
+                    </b>
+                </a>.
+                <p/>
+                <div align='center'>
+                    <img src="pic/jiangwan.png" alt="NewCenturyResort_QiandaoLake" width="80%" />
+                    <div style='text-align: right; font-weight: bold; font-size: 80%;'>
+                        <a style="color: #008C93;" target='_blank',
+                            >
+                            Jiangwan Campus, Fudan University
+                        </a>
+                    </div>
+                </div>
 
+                <div align='center'>
+                    <img src="pic/physical.jpg" alt="NewCenturyResort_QiandaoLake" width="80%" />
+                    <div style='text-align: right; font-weight: bold; font-size: 80%;'>
+                        <a style="color: #008C93;" target='_blank',
+                            >
+                            Physics Hall, Jiangwan Campus, Fudan University
+                        </a>
+                    </div>
+                </div>
 
+                <div align='center'>
+                    <img src="pic/x1.png" alt="NewCenturyResort_QiandaoLake" width="80%" />
+                    <div style='text-align: right; font-weight: bold; font-size: 80%;'>
+                        <a style="color: #008C93;" >
+                            Interdisciplinary building 1, Jiangwan Campus, Fudan University 
+                        </a>
+                </div>
+  	</div>
 
+                <h2>Travel</h2>
+                <div>
+                            <p style="text-align: justify">
+		Jiangwan campus is the campus where most of the science and engineering 
+		faculties of Fudan University are located. Jiangwan campus is about <b>5 kilometers </b>
+		away from the old campus (Handan campus) and Wujiaochang commercial district, 
+		about <b>45 kilometers</b> away from Shanghai Pudong International Airport and 
+		about <b>36 kilometers</b> away from Hongqiao International Airport. Guofan 
+		Road Station of Shanghai Metro Line 10 is right next to the entrance of Jiangwan Campus.
 
+                            </p>
+                </div>
+<ul>
+<li>Jiangwan Campus of Fudan University is about an hour's drive from Shanghai Pudong International Airport (PVG) and Hongqiao International Airport.</li>
+              <div align='center'>
+                    <img src="pic/travel1.jpg" alt="travel1" width="60%" />
+                </div>
                 <div style='height: 6px'> </div>
-				<h2>Accommodation</h2>
-	<p>The accommodation of all invited speakers will be provided at <b>Shanghai Wujiaochang 
-		Boling hotel, 1258 Yinhang Road （上海五角场博邻酒店，殷行路1258号）</b>, which is about <b>1.7 kilometers </b>away from the Physics Hall. The hotels around the Jiangwan campus, including the Shanghai Wujiaochang Boling hotel, can be booked on the websites such as  <a  target='_blank', href="https://www.ctrip.com">
-                      <b>www.ctrip.com</b></a>. For attendants who cannot book the hotels by themselves, please contact Ms. Xiaoli Cui (cpslab@fudan.edu.cn) before the registration deadline: September 30, 2023.</p>
 
-
-              <div align='center'>
-                    <img src="pic/hotel-1.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
-                </div>
-
-              <div align='center'>
-                    <img src="pic/hotel-2.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
-                </div>
-
-              <div align='center'>
-                    <img src="pic/hotel-3.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
-                </div>
-
-              <div align='center'>
-                    <img src="pic/hotel-4.png" alt="NewCenturyResort_QiandaoLake" width="60%" />
-                </div>
-
- <ul>
 <li>Shanghai Wujiaochang Boling hotel is 1.7 kilometers away from the Physics Hall.</li>
               <div align='center'>
                     <img src="pic/travel2.jpg" alt="travel2" width="60%" />
@@ -138,12 +159,12 @@
                 <div style='height: 6px'> </div>
 
 </ul>
-		    
+
                 <div style="clear: both; width=100%; text-align: right; padding: 10px 20px 300px">
                     <a href="#top" style="font-size: 80%; color: #FF3322; font-weight: bold;"> &lt; Top &gt; </a>
                 </div>
 
-		    
+
         </div> <!-- content -->
         </div> <!-- copyright -->
         </div> <!-- wrap -->
